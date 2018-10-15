@@ -2,7 +2,7 @@
 
 date
 
-cd /root/manj/
+
 
 ls -lrth
 
