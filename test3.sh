@@ -1,8 +1,7 @@
 #!/bin/bash
 
-cd /root/manj/Tomcat/webapps/
+pwd
 
 ls -lrth
 
-##
-echo "YOU HAVE FUCKED IT"
+
